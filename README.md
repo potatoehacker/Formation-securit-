@@ -24,8 +24,8 @@ si ça vous tente, c'est pas ici: https://hackerone.com/
 
 ## Sommaire
 
-### Intro: pourquoi les failles de sécurité arrivent
 ### Les failles de sécurité frequentes
+#### Intro: [Pourquoi les failles de sécurité arrivent](./0-Intro.md)
 #### Partie 1: [XSS/CSRF](./1-XSS.md)
 #### Partie 2: SQLi
 #### Partie 3: Injection de code
