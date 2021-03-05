@@ -30,7 +30,7 @@ Soient deux utilisateurs du site **target.com**: appellons les **Hacker** et **V
 
 Du point de vue des echanges entre le navigateur et le serveur, ça ressemblerait à ça:
 
-[](./assets/CSRF1.png)
+![](./assets/CSRF1.png)
 
 
 
